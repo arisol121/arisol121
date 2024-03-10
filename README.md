@@ -13,4 +13,5 @@ Virtualbox
 <h2>Program walk-through:</h2>
 Sign up for free trial without credit card
 <img width="724" alt="Screenshot 2024-03-10 121220" src="https://github.com/arisol121/arisol121/assets/79430449/260221a4-4046-4455-869d-5f551c4ef83e">
-<h2>Create Deployment</h2>
+
+- <b>Create Deployment</b> (21H2)
