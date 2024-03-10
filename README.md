@@ -1,6 +1,6 @@
 <h1>Hi, - I'm Arolinda! </h1>
 
- <h2>Cybersecurity Projects</h2>
+ <h2>Cybersecurity Project</h2>
 Project 
 <h2>Description</h2>
 Hands on Siem home lab used for threat detection and security monitoring. 
