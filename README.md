@@ -22,3 +22,5 @@ Step 3.  -<b>Download Kali Linux VM https://www.kali.org/get-kali/#kali-virtual-
 Create a new VM with Kali 
 
 <img width="703" alt="vm" src="https://github.com/arisol121/arisol121/assets/79430449/6faf0c8a-42a7-4d2e-b292-25e70a2da5fe">
+
+Next select the 3 dashes at the top left corner and at the bottom select add integrations:
