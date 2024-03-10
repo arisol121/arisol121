@@ -18,4 +18,5 @@ Step 2. -<b>Create Deployment and choose a region</b>
 <img width="737" alt="deployment " src="https://github.com/arisol121/arisol121/assets/79430449/465c99a0-3a79-41cc-b79d-9a496440ba2b">
 
 Step 3.  -<b>Download Kali Linux VM https://www.kali.org/get-kali/#kali-virtual-machines</b>
+
 Create a new VM with Kali 
