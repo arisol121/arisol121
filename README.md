@@ -45,4 +45,10 @@ Step 5. select copy to clipboard and paste the command on the kali linux termina
 
 After the agent has been installed successfully now I will verify the agent has been installed by running the command- sudo (systemctl status elastic-agent.service)
 
+Step 6. Now to verify the agent is working I will run the nmap command running this command will establish connections to any application listening 
+
+
+<img width="375" alt="Screenshot 2024-03-06 085741" src="https://github.com/arisol121/arisol121/assets/79430449/cbbe967b-7dbc-4faf-9052-02a7b801ca23">
+
+
 
