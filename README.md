@@ -58,4 +58,10 @@ go to the homepage and on the top left corner select the hamburger menu icon and
 
 <img width="366" alt="logs" src="https://github.com/arisol121/arisol121/assets/79430449/501c4910-d09c-4261-956d-7e9d7855531d">
 
-I can filter the logs by searching in the search bar nmap_scan 
+I can filter the logs by searching in the search bar process.args 
+
+Step 8. Created a Dashboad to visualize the events
+On the top right side select create a dashboard 
+
+
+<img width="662" alt="dashboard" src="https://github.com/arisol121/arisol121/assets/79430449/d61ecf50-ad7e-4b85-b778-e47be59d9593">
