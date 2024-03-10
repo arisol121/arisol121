@@ -40,8 +40,9 @@ Step 5. select copy to clipboard and paste the command on the kali linux termina
 <img width="699" alt="Linux 1" src="https://github.com/arisol121/arisol121/assets/79430449/051401a6-7cfb-4f04-baf9-939f80702701">
 
 
-<img width="342" alt="Screenshot 2024-03-04 074301" src="https://github.com/arisol121/arisol121/assets/79430449/1da7af1a-2d33-4e60-9b3b-541b0c028af2">
 
+<img width="334" alt="root alic" src="https://github.com/arisol121/arisol121/assets/79430449/29e19c56-02f3-45bf-9d34-de33884ee8ac">
 
+After the agent has been installed successfully now I will verify the agent has been installed by running the command- sudo (systemctl status elastic-agent.service)
 
 
