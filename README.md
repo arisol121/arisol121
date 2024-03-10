@@ -26,3 +26,5 @@ Create a new VM with Kali
 Next select the hamburger menu icon at the top left corner and at the bottom select add integrations:
 
 <img width="224" alt="integrations" src="https://github.com/arisol121/arisol121/assets/79430449/a3ac7461-bdd8-42ca-adc6-8c99c7006234">
+
+Step 3 - <b>Search for Elastic Defend</b>
