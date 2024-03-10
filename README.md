@@ -14,5 +14,5 @@ Virtualbox
 Sign up for free trial without credit card
 <img width="724" alt="Screenshot 2024-03-10 121220" src="https://github.com/arisol121/arisol121/assets/79430449/260221a4-4046-4455-869d-5f551c4ef83e">
 
-- <b>Create Deploymentand choose a region</b> 
+- <b>Create Deployment and choose a region</b> 
 <img width="737" alt="deployment " src="https://github.com/arisol121/arisol121/assets/79430449/465c99a0-3a79-41cc-b79d-9a496440ba2b">
