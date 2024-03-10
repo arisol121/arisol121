@@ -35,3 +35,8 @@ Step 4. Install Elastic Agent
 
 <img width="722" alt="install elastic " src="https://github.com/arisol121/arisol121/assets/79430449/77d17e46-e8ee-48ca-81c6-c36502273d88">
 
+Step 5. select copy to clipboard on the kali linux terminal must have root priveleges to run the command
+
+<img width="699" alt="Linux 1" src="https://github.com/arisol121/arisol121/assets/79430449/051401a6-7cfb-4f04-baf9-939f80702701">
+
+
