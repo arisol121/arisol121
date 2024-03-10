@@ -10,3 +10,5 @@ Virtualbox
 
 <h2>Links</h2>
  Elastic Cloud free trial at https://cloud.elastic.co/registration
+<h2>Program walk-through:</h2>
+Sign up for free trial without credit card
