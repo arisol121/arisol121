@@ -66,7 +66,7 @@ After the agent has been installed successfully now I will verify the agent has 
 
 <img width="366" alt="logs" src="https://github.com/arisol121/arisol121/assets/79430449/501c4910-d09c-4261-956d-7e9d7855531d">
 
-I can filter the logs by searching in the search bar process.args 
+Filtered the logs by searching in the search bar process.args 
 <h2></h2>
 
 **Step 9.** -<b>Created a Dashboad to visualize the events
