@@ -86,3 +86,15 @@ On the top right side select create a dashboard </b>
 - <b> Vertical axis select count</b>
 
 <img width="677" alt="visualization" src="https://github.com/arisol121/arisol121/assets/79430449/cbd2a91d-53a0-48b2-8281-128986e52f94">
+
+- <b>Then select hamburger menu icon and under Security section select alerts </b>
+- <b>Select manage rules</b>
+<img width="181" alt="alerts" src="https://github.com/arisol121/arisol121/assets/79430449/8201079a-7ed4-403b-a420-eb07b7a5faf1">
+
+<img width="664" alt="manage rules" src="https://github.com/arisol121/arisol121/assets/79430449/64281ddb-ff15-4a29-8798-b27bf4386e1e">
+
+Click create new rule 
+
+<img width="401" alt="create new rule" src="https://github.com/arisol121/arisol121/assets/79430449/69be97e5-6d10-4f94-8ea0-72c3343bd6f1">
+
+
