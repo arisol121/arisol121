@@ -108,5 +108,10 @@ Create custom query
 - <b>then create & enable rule</b>
 <img width="360" alt="create enable" src="https://github.com/arisol121/arisol121/assets/79430449/2fd7f5d2-1117-433c-8d5f-2d516f4c1619">
 
+<h2></h2>
 
+
+<b>Alert is created </b>
+
+<img width="599" alt="finall" src="https://github.com/arisol121/arisol121/assets/79430449/6cb2a73a-8409-4029-b153-ea196949290d">
 
