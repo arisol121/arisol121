@@ -11,13 +11,15 @@ Virtualbox
 <h2>Links</h2>
  Elastic Cloud free trial at https://cloud.elastic.co/registration
 <h2>Siem Home lab setup step by step:</h2>
-Step 1. Sign up for free trial without credit card
+
+**Step 1.** Sign up for free trial without credit card
+
 <img width="724" alt="Screenshot 2024-03-10 121220" src="https://github.com/arisol121/arisol121/assets/79430449/260221a4-4046-4455-869d-5f551c4ef83e">
 
-Step 2. -<b>Create Deployment and choose a region</b> 
+**Step 2.** -<b>Create Deployment and choose a region</b> 
 <img width="737" alt="deployment " src="https://github.com/arisol121/arisol121/assets/79430449/465c99a0-3a79-41cc-b79d-9a496440ba2b">
 
-Step 3.  -<b>Download Kali Linux VM https://www.kali.org/get-kali/#kali-virtual-machines</b>
+**Step 3.**  -<b>Download Kali Linux VM https://www.kali.org/get-kali/#kali-virtual-machines</b>
 <br />
 Create a new VM with Kali 
 
@@ -27,15 +29,15 @@ Next select the hamburger menu icon at the top left corner and at the bottom sel
 
 <img width="224" alt="integrations" src="https://github.com/arisol121/arisol121/assets/79430449/a3ac7461-bdd8-42ca-adc6-8c99c7006234">
 
-Step 3 - <b>Search for Elastic Defend</b>
+**Step 4.** - <b>Search for Elastic Defend</b>
 
 <img width="811" alt="Screenshot 2024-03-04 072412" src="https://github.com/arisol121/arisol121/assets/79430449/a91ce903-1e07-411e-b5b8-3b9c11ae5f7d">
 
-Step 4. Install Elastic Agent
+**Step 5.** Install Elastic Agent
 
 <img width="722" alt="install elastic " src="https://github.com/arisol121/arisol121/assets/79430449/77d17e46-e8ee-48ca-81c6-c36502273d88">
 
-Step 5. select copy to clipboard and paste the command on the kali linux terminal must have root priveleges to run the command
+**Step 6.** select copy to clipboard and paste the command on the kali linux terminal must have root priveleges to run the command
 
 <img width="699" alt="Linux 1" src="https://github.com/arisol121/arisol121/assets/79430449/051401a6-7cfb-4f04-baf9-939f80702701">
 
@@ -45,14 +47,14 @@ Step 5. select copy to clipboard and paste the command on the kali linux termina
 
 After the agent has been installed successfully now I will verify the agent has been installed by running the command- sudo (systemctl status elastic-agent.service)
 
-Step 6. Now to verify the agent is working I will run the nmap command running this command will establish connections to any application listening 
+**Step 7.** Now to verify the agent is working I will run the nmap command running this command will establish connections to any application listening 
 
 
 <img width="375" alt="Screenshot 2024-03-06 085741" src="https://github.com/arisol121/arisol121/assets/79430449/cbbe967b-7dbc-4faf-9052-02a7b801ca23">
 
 <br />
 
-Step 7. Now to start querying and analyzing the logs in the siem
+**Step 8.** Now to start querying and analyzing the logs in the siem
 go to the homepage and on the top left corner select the hamburger menu icon and scroll to the observability section and select Logs
 
 
@@ -60,9 +62,12 @@ go to the homepage and on the top left corner select the hamburger menu icon and
 
 I can filter the logs by searching in the search bar process.args 
 
-Step 8. Created a Dashboad to visualize the events
+**Step 9.** Created a Dashboad to visualize the events
 On the top right side select create a dashboard 
 
 
 <img width="662" alt="dashboard" src="https://github.com/arisol121/arisol121/assets/79430449/d61ecf50-ad7e-4b85-b778-e47be59d9593">
 
+Then select create visualization 
+
+<img width="565" alt="create visualization" src="https://github.com/arisol121/arisol121/assets/79430449/83fdbeef-dcb7-464c-b198-25c7f1249e93">
