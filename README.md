@@ -75,6 +75,14 @@ On the top right side select create a dashboard </b>
 
 <img width="662" alt="dashboard" src="https://github.com/arisol121/arisol121/assets/79430449/d61ecf50-ad7e-4b85-b778-e47be59d9593">
 
-Then select create visualization 
+
+**Then select create visualization to add visualization** 
 
 <img width="565" alt="create visualization" src="https://github.com/arisol121/arisol121/assets/79430449/83fdbeef-dcb7-464c-b198-25c7f1249e93">
+
+- <b>Select Bar horizontal stacked as visualization type
+- under bar visualization select metrics</b>
+- <b>Horizontalaxi section select @timestamp</b>
+- <b> Vertical axis select count</b>
+
+<img width="677" alt="visualization" src="https://github.com/arisol121/arisol121/assets/79430449/cbd2a91d-53a0-48b2-8281-128986e52f94">
