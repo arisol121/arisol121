@@ -15,9 +15,12 @@ Virtualbox
 **Step 1.** Sign up for free trial without credit card
 
 <img width="724" alt="Screenshot 2024-03-10 121220" src="https://github.com/arisol121/arisol121/assets/79430449/260221a4-4046-4455-869d-5f551c4ef83e">
+<h2></h2>
 
 **Step 2.** -<b>Create Deployment and choose a region</b> 
+
 <img width="737" alt="deployment " src="https://github.com/arisol121/arisol121/assets/79430449/465c99a0-3a79-41cc-b79d-9a496440ba2b">
+<h2></h2>
 
 **Step 3.**  -<b>Download Kali Linux VM https://www.kali.org/get-kali/#kali-virtual-machines</b>
 <br />
@@ -28,14 +31,17 @@ Create a new VM with Kali
 Next select the hamburger menu icon at the top left corner and at the bottom select add integrations:
 
 <img width="224" alt="integrations" src="https://github.com/arisol121/arisol121/assets/79430449/a3ac7461-bdd8-42ca-adc6-8c99c7006234">
+<h2></h2>
 
 **Step 4.** - <b>Search for Elastic Defend</b>
 
 <img width="811" alt="Screenshot 2024-03-04 072412" src="https://github.com/arisol121/arisol121/assets/79430449/a91ce903-1e07-411e-b5b8-3b9c11ae5f7d">
+<h2></h2>
 
 **Step 5.** Install Elastic Agent
 
 <img width="722" alt="install elastic " src="https://github.com/arisol121/arisol121/assets/79430449/77d17e46-e8ee-48ca-81c6-c36502273d88">
+<h2></h2>
 
 **Step 6.** select copy to clipboard and paste the command on the kali linux terminal must have root priveleges to run the command
 
@@ -46,6 +52,7 @@ Next select the hamburger menu icon at the top left corner and at the bottom sel
 <img width="410" alt="Screenshot 2024-085513" src="https://github.com/arisol121/arisol121/assets/79430449/9e94b88b-565f-461d-9952-345fdd9899e4">
 
 After the agent has been installed successfully now I will verify the agent has been installed by running the command- sudo (systemctl status elastic-agent.service)
+<h2></h2>
 
 **Step 7.** Now to verify the agent is working I will run the nmap command running this command will establish connections to any application listening 
 
@@ -53,6 +60,7 @@ After the agent has been installed successfully now I will verify the agent has 
 <img width="375" alt="Screenshot 2024-03-06 085741" src="https://github.com/arisol121/arisol121/assets/79430449/cbbe967b-7dbc-4faf-9052-02a7b801ca23">
 
 <br />
+<h2></h2>
 
 **Step 8.** Now to start querying and analyzing the logs in the siem
 go to the homepage and on the top left corner select the hamburger menu icon and scroll to the observability section and select Logs
@@ -61,6 +69,7 @@ go to the homepage and on the top left corner select the hamburger menu icon and
 <img width="366" alt="logs" src="https://github.com/arisol121/arisol121/assets/79430449/501c4910-d09c-4261-956d-7e9d7855531d">
 
 I can filter the logs by searching in the search bar process.args 
+<h2></h2>
 
 **Step 9.** Created a Dashboad to visualize the events
 On the top right side select create a dashboard 
