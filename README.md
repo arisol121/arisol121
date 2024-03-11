@@ -101,8 +101,12 @@ Create custom query
 - <b>In the custom query sectin seach for event.action</b>
 - <b>Under the about rule section type nmap scan</b>
 - <b>The rule actions section select the connector type </b>
-- <b>Select email then create & enable rule</b>
+- <b>Select email </b>
+<img width="380" alt="action connector" src="https://github.com/arisol121/arisol121/assets/79430449/232f1182-7dc8-4737-a6d8-caa7ab50342b">
 
-<img width="400" alt="action connector" src="https://github.com/arisol121/arisol121/assets/79430449/292ac1bf-6550-41aa-b673-8369604a4831">
+
+- <b>then create & enable rule</b>
+<img width="360" alt="create enable" src="https://github.com/arisol121/arisol121/assets/79430449/2fd7f5d2-1117-433c-8d5f-2d516f4c1619">
+
 
 
