@@ -98,10 +98,10 @@ Click create new rule
 <img width="401" alt="create new rule" src="https://github.com/arisol121/arisol121/assets/79430449/69be97e5-6d10-4f94-8ea0-72c3343bd6f1">
 
 Create custom query
-<b>In the custom query sectin seach for event.action</b>
-<b>Under the about rule section type nmap scan</b>
-<b>The rule actions section select the connector type </b>
-<b>Select email then create & enable rule</b>
+- <b>In the custom query sectin seach for event.action</b>
+- <b>Under the about rule section type nmap scan</b>
+- <b>The rule actions section select the connector type </b>
+- <b>Select email then create & enable rule</b>
 
 <img width="400" alt="action connector" src="https://github.com/arisol121/arisol121/assets/79430449/292ac1bf-6550-41aa-b673-8369604a4831">
 
