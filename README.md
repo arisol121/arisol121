@@ -40,7 +40,7 @@ Next select the hamburger menu icon at the top left corner and at the bottom sel
 
 <img width="239" alt="integration 2" src="https://github.com/arisol121/arisol121/assets/79430449/74987f47-b0c8-49bf-892b-37fa4320235b">
 
-**Step 4.** -<b>Add Elastic Defend Integration/b>
+**Step 4.** -<b>Search for Elastic Defend and add the Integration/b>
 
 <img width="811" alt="Screenshot 2024-03-04 072412" src="https://github.com/arisol121/arisol121/assets/79430449/a91ce903-1e07-411e-b5b8-3b9c11ae5f7d">
 <h2></h2>
@@ -52,7 +52,8 @@ Open a Kali Linux terminal with root privileges and paste the command.
 <img width="722" alt="install elastic " src="https://github.com/arisol121/arisol121/assets/79430449/77d17e46-e8ee-48ca-81c6-c36502273d88">
 <h2></h2>
 
-**Step 6.** -<b>Select copy to clipboard and paste the command on the kali linux terminal must have root priveleges to run the command</b>
+**Step 6.** -<b> Verify Agent Installation </b>
+Select copy to clipboard and paste the command on the kali linux terminal must have root priveleges to run the command
 
 <img width="699" alt="Linux 1" src="https://github.com/arisol121/arisol121/assets/79430449/051401a6-7cfb-4f04-baf9-939f80702701">
 
