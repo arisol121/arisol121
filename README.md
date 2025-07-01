@@ -137,7 +137,9 @@ Create and enable the rule.
 
 <img width="692" alt="lab" src="https://github.com/arisol121/arisol121/assets/79430449/93c246e8-530b-45a5-a7ce-ef988b56876b"> 
 
+
 <b>Outcome</b>
+
 Successfully installed and configured Elastic Agent.
 
 Simulated and detected Nmap scans.
