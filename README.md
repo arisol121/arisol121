@@ -3,28 +3,36 @@
  <h2>Cybersecurity Project</h2>
 Project 
 <h2>Description</h2>
-Hands on Siem home lab used for threat detection and security monitoring. 
+This project demonstrates how I set up a hands-on SIEM home lab using Elastic SIEM for threat detection and security monitoring.
 
 <h2>Tools Used</h2>
-Virtualbox 
+Virtualbox
+Kali Linux
+Elastic Cloud (Free Trial)
 
 <h2>Links</h2>
  Elastic Cloud free trial at https://cloud.elastic.co/registration
 <h2>Siem Home lab setup step by step:</h2>
 
-**Step 1.** -<b>Sign up for free trial without credit card</b>
+**Step 1.** -<b>Register for a free Elastic Cloud trial (no credit card required).</b>
 
 <img width="724" alt="Screenshot 2024-03-10 121220" src="https://github.com/arisol121/arisol121/assets/79430449/260221a4-4046-4455-869d-5f551c4ef83e">
 <h2></h2>
 
-**Step 2.** -<b>Create Deployment and choose a region</b> 
+**Step 2.** -<b>Choose a region for your Elastic deployment.</b> 
 
 <img width="737" alt="deployment " src="https://github.com/arisol121/arisol121/assets/79430449/465c99a0-3a79-41cc-b79d-9a496440ba2b">
 <h2></h2>
 
 **Step 3.**  -<b>Download Kali Linux VM https://www.kali.org/get-kali/#kali-virtual-machines</b>
 <br />
-Create a new VM with Kali 
+ Download Kali Linux and create a new VM in VirtualBox.
+
+Once installed, open your Elastic deployment and:
+
+    Click the hamburger menu (☰) in the top-left corner.
+
+    Scroll down and select Add Integrations.
 
 <img width="703" alt="vm" src="https://github.com/arisol121/arisol121/assets/79430449/6faf0c8a-42a7-4d2e-b292-25e70a2da5fe">
 
@@ -32,13 +40,15 @@ Next select the hamburger menu icon at the top left corner and at the bottom sel
 
 <img width="239" alt="integration 2" src="https://github.com/arisol121/arisol121/assets/79430449/74987f47-b0c8-49bf-892b-37fa4320235b">
 
-**Step 4.** -<b>Search for Elastic Defend</b>
+**Step 4.** -<b>Add Elastic Defend Integration/b>
 
 <img width="811" alt="Screenshot 2024-03-04 072412" src="https://github.com/arisol121/arisol121/assets/79430449/a91ce903-1e07-411e-b5b8-3b9c11ae5f7d">
 <h2></h2>
 
 **Step 5.** -<b>Install Elastic Agent</b>
+Click Copy to Clipboard to copy the install command.
 
+Open a Kali Linux terminal with root privileges and paste the command.
 <img width="722" alt="install elastic " src="https://github.com/arisol121/arisol121/assets/79430449/77d17e46-e8ee-48ca-81c6-c36502273d88">
 <h2></h2>
 
