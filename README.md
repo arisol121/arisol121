@@ -119,11 +119,29 @@ Create custom query
 <img width="360" alt="create enable" src="https://github.com/arisol121/arisol121/assets/79430449/2fd7f5d2-1117-433c-8d5f-2d516f4c1619">
 
 <h2></h2>
+**Step 10.** -<b>Set Up Alerts</b>
+Go to Security > Alerts > Manage Rules > Create New Rule
 
+Use a custom query (e.g., event.action: "network_scan").
+
+Name the rule (e.g., "Nmap Scan Detection").
+
+Under Actions, choose a connector (e.g., Email).
+
+Create and enable the rule.
 
 <b>Alert is created </b>
 
 <img width="599" alt="finall" src="https://github.com/arisol121/arisol121/assets/79430449/6cb2a73a-8409-4029-b153-ea196949290d">
 
 
-<img width="692" alt="lab" src="https://github.com/arisol121/arisol121/assets/79430449/93c246e8-530b-45a5-a7ce-ef988b56876b">
+<img width="692" alt="lab" src="https://github.com/arisol121/arisol121/assets/79430449/93c246e8-530b-45a5-a7ce-ef988b56876b"> 
+
+<b>Outcome</b>
+Successfully installed and configured Elastic Agent.
+
+Simulated and detected Nmap scans.
+
+Created dashboards for log analysis.
+
+Set up alert rules for proactive threat detection.
